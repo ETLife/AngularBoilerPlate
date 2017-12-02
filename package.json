@@ -1,0 +1,19 @@
+{
+  "name": "angularboilerplate",
+  "version": "1.0.0",
+  "description": "Boiler plate code for any Angular 1 application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ETLife/AngularBoilerPlate.git"
+  },
+  "author": "Randy Burrell",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/ETLife/AngularBoilerPlate/issues"
+  },
+  "homepage": "https://github.com/ETLife/AngularBoilerPlate#readme"
+}
