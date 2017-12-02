@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ETLife/AngularBoilerPlate/issues"
   },
-  "homepage": "https://github.com/ETLife/AngularBoilerPlate#readme"
+  "homepage": "https://github.com/ETLife/AngularBoilerPlate#readme",
+  "dependencies": {
+    "angular": "^1.6.7"
+  }
 }
