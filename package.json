@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/ETLife/AngularBoilerPlate#readme",
   "dependencies": {
-    "angular": "^1.6.7"
+    "angular": "^1.6.7",
+    "angular-route": "^1.6.7",
+    "angular-sanitize": "^1.6.7"
   }
 }
