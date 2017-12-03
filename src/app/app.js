@@ -1,10 +1,10 @@
 (function () {
-    angular.module('MODULE_NAME', ['ngRoute', 'ngSanitize', 'ui.bootstrap']);
+    angular.module('MODULE_NAME', ['ngRoute', 'ngSanitize']);
 
     function config ($routeProvider, $locationProvider) {
         $routeProvider
             .when('/', {
-                templateUrl: '/home/home.view.html',
+                templateUrl: '/app/home/home.view.html',
                 controller: 'homeCtrl',
                 controllerAs: 'vm'
             })
